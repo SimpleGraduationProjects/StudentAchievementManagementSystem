@@ -256,7 +256,7 @@
 							<li>用户管理</li>
 						</a> -->
 						<a href="updatePwdView.action" target="right"><li >修改密码</li></a>
-						<a href="exit.action" target="right"><li >退出本系统</li></a>
+						<a href="exit.action" target="_blank"><li >退出本系统</li></a>
 					</ul>
 				</li>
 			</ul>
